@@ -1,0 +1,84 @@
+
+/* this is where all of your CSS styles go */
+
+@font-face{
+	font-family: 'Comm';
+	src: url(../fonts/commissioner.ttf) format('truetype');
+}
+
+.orange{
+	background-color:rgb(260,78,60);
+	width: 800px;
+	height: 1200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.circle{
+	background-color: lightgray;
+	height: 500px;
+	width: 500px;
+	border-radius: 100%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.neo1{
+	font-family: 'Comm';
+	font-size: 50px;
+	font-weight: 700;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.neo2{
+	font-family: 'Comm';
+	font-size: 80px;
+	font-weight: 700;
+	position: absolute;
+	top: 14%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+.neo3{
+	font-family: 'Comm';
+	font-size: 50px;
+	font-weight: 700;
+	position: absolute;
+	top: 74%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.neo4{
+	font-family: 'Comm';
+	font-size: 80px;
+	font-weight: 700;
+	position: absolute;
+	top: 78%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+#box {
+	width: 650px;
+	height: 650px;
+	position: absolute;
+	left: 50%;
+	top: 51%;
+	transform: translate(-50%,-50%);
+}
+
+
+
+
+
+
